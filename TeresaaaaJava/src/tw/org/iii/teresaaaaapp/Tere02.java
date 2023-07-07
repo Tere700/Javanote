@@ -14,7 +14,6 @@ public class Tere02 {
 		a+=1; //a++;
 		System.out.println(a);
 		
-		
 	/*型別不同 塞不進去
 	 *(byte,short,int)混合進行數學(+-/*)運算會轉換成int
 	 * 但搭配long全不就會變成long
